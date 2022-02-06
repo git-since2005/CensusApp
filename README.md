@@ -4,4 +4,4 @@
 
 `pip install -r requirements.txt`  
 
-`streamlit run adult.py`
+`streamlit run census_app.py`
