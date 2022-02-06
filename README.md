@@ -1,7 +1,7 @@
 ## Steps to run:  
 
-`cd Iris-app`  
+`cd CensusApp`  
 
 `pip install -r requirements.txt`  
 
-`streamlit run iris_app.py`
+`streamlit run adult.py`
